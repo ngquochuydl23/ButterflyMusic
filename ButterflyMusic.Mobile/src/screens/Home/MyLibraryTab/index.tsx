@@ -9,21 +9,21 @@ import MyPlayListItem from "../../MyPlaylist/components/MyPlayListItem";
 const playLists = [
   {
     id: 1,
-    title: 'Lớp 9A13 - 9A15 THCS Nguyễn Du',
-    subtitle: 'Danh sách phát • Vũ Hoàng Uyên Nhi',
-    thumbnail: 'https://i.ytimg.com/vi/nrpjNgZCdlM/maxresdefault.jpg'
+    title: '',
+    subtitle: '',
+    thumbnail: ''
   },
   {
     id: 1,
-    title: 'Lớp 9A13 - 9A15 THCS Nguyễn Du',
-    subtitle: 'Danh sách phát • Vũ Hoàng Uyên Nhi',
-    thumbnail: 'https://i.ytimg.com/vi/nrpjNgZCdlM/maxresdefault.jpg'
+    title: '',
+    subtitle: '',
+    thumbnail: ''
   },
   {
     id: 1,
-    title: 'Lớp 9A13 - 9A15 THCS Nguyễn Du',
-    subtitle: 'Danh sách phát • Vũ Hoàng Uyên Nhi',
-    thumbnail: 'https://i.ytimg.com/vi/nrpjNgZCdlM/maxresdefault.jpg'
+    title: '',
+    subtitle: '',
+    thumbnail: ''
   }
 ]
 
